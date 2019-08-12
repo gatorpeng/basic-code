@@ -18,6 +18,5 @@ public class Demo01Extends {
         teacher.methodZi();
 
 
-
     }
 }
