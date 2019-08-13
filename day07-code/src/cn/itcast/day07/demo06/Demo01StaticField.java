@@ -6,7 +6,7 @@ public class Demo01StaticField {
         Student one = new Student();
         one.setName("杨紫");
         one.setAge(12);
-        one.room = "101 教室";
+        Student.room = "101 教室";
         System.out.println("姓名： " + one.getName()
                 + "; 年龄：" + one.getAge()
                 + "; 教室：" + one.room
