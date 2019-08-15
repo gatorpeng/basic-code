@@ -12,9 +12,6 @@ public interface MyInterfacePrivateA {
         methodCommon();
     }
 
-
-
-
     private void methodCommon() {
         System.out.println("AAAA");
         System.out.println("BBBB");
