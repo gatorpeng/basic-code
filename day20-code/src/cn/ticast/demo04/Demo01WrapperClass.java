@@ -28,5 +28,13 @@ public class Demo01WrapperClass {
         int int2 = list.get(0);
         System.out.println("int2:" + int2);
 
+        Integer num = 3;
+        int num1 = num;
+        System.out.println(num);
+        System.out.println(num1);
+
+        Character chaClass = 'a';
+        char cr = chaClass;
+
     }
 }
