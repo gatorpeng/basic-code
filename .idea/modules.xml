@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/day21-ListAndSet/day21-ListAndSet.iml" filepath="$PROJECT_DIR$/day21-ListAndSet/day21-ListAndSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/day22-Map/day22-Map.iml" filepath="$PROJECT_DIR$/day22-Map/day22-Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/day23-ExceptionAndThread/day23-ExceptionAndThread.iml" filepath="$PROJECT_DIR$/day23-ExceptionAndThread/day23-ExceptionAndThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24-threadandlambda/day24-threadandlambda.iml" filepath="$PROJECT_DIR$/day24-threadandlambda/day24-threadandlambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25-file/day25-file.iml" filepath="$PROJECT_DIR$/day25-file/day25-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26-io-property/day26-io-property.iml" filepath="$PROJECT_DIR$/day26-io-property/day26-io-property.iml" />
     </modules>
   </component>
 </project>
