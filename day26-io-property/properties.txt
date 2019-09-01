@@ -1,0 +1,5 @@
+#Data
+#Tue Aug 27 09:22:55 EDT 2019
+Katy\ Perry=32
+Julia\ Roberts=40
+Scarlett\ Johansson=32

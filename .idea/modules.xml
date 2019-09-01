@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/day24-threadandlambda/day24-threadandlambda.iml" filepath="$PROJECT_DIR$/day24-threadandlambda/day24-threadandlambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/day25-file/day25-file.iml" filepath="$PROJECT_DIR$/day25-file/day25-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/day26-io-property/day26-io-property.iml" filepath="$PROJECT_DIR$/day26-io-property/day26-io-property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day27-net/day27-net.iml" filepath="$PROJECT_DIR$/day27-net/day27-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day28-functional-interface/day28-functional-interface.iml" filepath="$PROJECT_DIR$/day28-functional-interface/day28-functional-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29-stream/day29-stream.iml" filepath="$PROJECT_DIR$/day29-stream/day29-stream.iml" />
     </modules>
   </component>
 </project>

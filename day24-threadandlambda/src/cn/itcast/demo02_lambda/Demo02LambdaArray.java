@@ -22,9 +22,7 @@ public class Demo02LambdaArray {
 
         // lambda expression
 
-        Arrays.sort(arr,(Person o1, Person o2) ->{
-            return o1.getAge()-o2.getAge();
-        });
+        Arrays.sort(arr,(o1, o2) -> o1.getAge()-o2.getAge());
         for (Person person : arr) {
             System.out.println(person);
         }
